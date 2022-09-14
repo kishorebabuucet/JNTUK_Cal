@@ -17,10 +17,10 @@
 		<maven.compiler.target>1.7</maven.compiler.target>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<sonar.projectKey>caldemo</sonar.projectKey>
+		<sonar.projectKey>cal12</sonar.projectKey>
 		<sonar.language>java</sonar.language>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>sqp_0eead47ece5b734dc7f77dc36c0d84ce7a2b9481</sonar.login>
+		<sonar.login>sqp_871ce573df13f29c0734e717ccc9abc1ef5d8baa</sonar.login>
 
 	</properties>
 
